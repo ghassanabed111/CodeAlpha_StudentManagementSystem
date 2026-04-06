@@ -11,7 +11,7 @@ What it can do:
 * Update a student
 
 
-How to use:
+# How to use
 
 When you run the program, you will see a menu.
 
